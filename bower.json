@@ -1,0 +1,28 @@
+{
+  "name": "action-cable",
+  "authors": [
+    "hardywu <hardy0wu@gmail.com>"
+  ],
+  "version": "5.0.0-beta2",
+  "description": "bower package for actioncable of Ruby on Rails",
+  "main": "dist/action_cable.js",
+  "moduleType": [],
+  "keywords": [
+    "action_cable",
+    "Ruby on Rails"
+  ],
+  "license": "MIT",
+  "homepage": "hardywu/action-cable",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "tmp",
+    "Rakefile",
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
