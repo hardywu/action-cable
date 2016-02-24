@@ -3,7 +3,7 @@
   "authors": [
     "hardywu <hardy0wu@gmail.com>"
   ],
-  "version": "5.0.0-beta2",
+  "version": "5.0.0-beta3",
   "description": "bower package for ActionCable of Ruby on Rails",
   "main": "dist/action_cable.js",
   "moduleType": [],
