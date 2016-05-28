@@ -65,7 +65,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  actioncable (~> 5.0.0.beta4)
+  actioncable (~> 5.0.0.rc1)
   rake (>= 10.3)
   sprockets (~> 3.0)
   uglifier
